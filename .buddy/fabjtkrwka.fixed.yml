@@ -1,0 +1,4 @@
+- pipeline: fabjtkrwka
+  refs:
+  - refs/heads/master
+  on: CLICK
