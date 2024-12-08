@@ -1,4 +1,4 @@
-- pipeline: fabjtkrwka
+- pipeline: Fabjtkrwka
   refs:
   - refs/heads/master
   on: CLICK
